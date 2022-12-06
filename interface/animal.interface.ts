@@ -1,5 +1,5 @@
 
-export class IAnimal {
+export interface IAnimal {
     id: string;
     name: string;
 }
